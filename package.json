@@ -1,0 +1,22 @@
+{
+  "name": "async-task",
+  "version": "0.0.1",
+  "description": "基于Promise/A+规范实现的异步任务工具，扩展停止，继续等相关功能。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liukeyi300/async-task.git"
+  },
+  "keywords": [
+    "promise"
+  ],
+  "author": "liukeyi300",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liukeyi300/async-task/issues"
+  },
+  "homepage": "https://github.com/liukeyi300/async-task#readme"
+}
